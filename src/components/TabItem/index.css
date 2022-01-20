@@ -1,0 +1,36 @@
+.app-list {
+  list-style: none;
+  border-style: none;
+}
+.selectedOn {
+  border-bottom: #2563eb;
+
+  border-bottom-style: solid;
+  border-width: 2px;
+
+  list-style: none;
+  padding: 5px;
+  cursor: pointer;
+}
+.app-category {
+  list-style: none;
+  padding: 5px;
+  cursor: pointer;
+  border-bottom: #7b8794;
+  border-bottom-style: solid;
+  border-width: 2px;
+}
+.selectedButton {
+  background-color: transparent;
+  color: #2563eb;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  border-style: none;
+}
+.unSelectedButton {
+  background-color: transparent;
+  color: #7b8794;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  border-style: none;
+}
